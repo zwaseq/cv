@@ -57,7 +57,7 @@ h3 {
     margin: auto 100px auto 100px;
 }
 .intro {
- width: 30%;
+ width: 40%;
  margin: 0 auto  0 auto;
  line-height: 2;    
 }
@@ -120,8 +120,8 @@ hr {
     line-height: 2;
     margin-top: 40px;
     margin-bottom: 60px;
-    margin-right: 207px;
-    margin-left: 207px;
+    margin-right: 20px;
+    margin-left: 20px;
 
     
   }
@@ -147,7 +147,7 @@ hr {
     width: 25px;
   }
   .instaicon {
-    width: 26px;
+    width: 25px;
   }
   a{
     color: #EAF6F6;
@@ -156,4 +156,3 @@ hr {
   a:hover {
     color: aqua;
   }
-#
